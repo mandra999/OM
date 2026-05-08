@@ -20,5 +20,13 @@
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
-  "Keys": {}
+  "Keys": {
+    "DPMods-O0QXWQ": {
+      "hwid": "9B9C39DC798968C8",
+      "expireDate": "2026-05-15",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
