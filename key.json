@@ -36,6 +36,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "MY-WQBLCK": {
+      "hwid": "9B9C39DC798968C8",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
